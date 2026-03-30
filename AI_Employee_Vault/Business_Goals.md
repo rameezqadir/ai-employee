@@ -11,4 +11,8 @@
 ## Alert Thresholds
 - Client response time > 48 hours: FLAG
 - Invoice payment rate < 80%: FLAG
+<<<<<<< HEAD
 - Monthly software costs > $600: FLAG
+=======
+- Software costs > $600/month: FLAG
+>>>>>>> 0f27180 (Silver tier complete: Gmail + Email MCP + Approval workflow)

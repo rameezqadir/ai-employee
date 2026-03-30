@@ -1,0 +1,11 @@
+2026-03-30 22:32:32,389 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-30 22:32:32,407 - INFO - 🚀 Gmail Watcher started
+2026-03-30 22:32:32,407 - INFO - 📁 Vault path: D:\ai-employee\AI_Employee_Vault
+2026-03-30 22:32:32,407 - INFO - ⏱️  Checking every 2 minutes for important emails
+2026-03-30 22:32:33,744 - INFO - 📧 New email task created: Security alert (Priority: high)
+2026-03-30 22:32:34,054 - INFO - 📧 New email task created: Yango ride reports – confirm your subscription (Priority: medium)
+2026-03-30 22:32:34,364 - INFO - 📧 New email task created: Monthly E-Statement (Priority: medium)
+2026-03-30 22:32:34,650 - INFO - 📧 New email task created: Monthly E-Statement (Priority: medium)
+2026-03-30 22:32:34,960 - INFO - 📧 New email task created: Login Authentication Code (Priority: medium)
+2026-03-30 22:34:35,534 - INFO - 📧 New email task created: Test (Priority: medium)
+2026-03-30 22:36:36,107 - INFO - 📧 New email task created: Test urgent (Priority: high)
