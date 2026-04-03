@@ -1,4 +1,4 @@
-﻿# Claude AI Employee Instructions
+# Claude AI Employee Instructions
 
 ## Your Role
 <<<<<<< HEAD

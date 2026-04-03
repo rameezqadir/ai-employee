@@ -17,10 +17,10 @@ Dear Valued Customer, Please find enclosed e-statement in pdf format and in case
 
 ## Required Actions
 
-- [ ] Read and understand email
-- [ ] Draft professional reply
-- [ ] Create approval request in /Pending_Approval
-- [ ] Wait for approval before sending
+- [x] Read and understand email
+- [ 2] Draft professional reply
+- [x] Create approval request in /Pending_Approval
+- [x] Wait for approval before sending
 
 ## Notes
 

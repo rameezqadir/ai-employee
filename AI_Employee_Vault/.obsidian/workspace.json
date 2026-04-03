@@ -11,10 +11,14 @@
             "id": "85d7815d36117925",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Needs_Action/EMAIL_20260330_223234_Monthly E-Statement.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "EMAIL_20260330_223234_Monthly E-Statement"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Needs_Action/EMAIL_20260330_223234_Monthly E-Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for EMAIL_20260330_223234_Monthly E-Statement"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Needs_Action/EMAIL_20260330_223234_Monthly E-Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from EMAIL_20260330_223234_Monthly E-Statement"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Needs_Action/EMAIL_20260330_223234_Monthly E-Statement.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of EMAIL_20260330_223234_Monthly E-Statement"
             }
           }
         ]
@@ -178,26 +185,34 @@
   },
   "active": "85d7815d36117925",
   "lastOpenFiles": [
-    "Needs_Action/FILE_20260215_204212_test_task.txt",
-    "Needs_Action/FILE_20260215_204212_test_task.md",
-    "-Host",
+    "Pending_Approval/APPROVAL_linkedin_post_20260404_000727.md",
+    "Logs/ralph_loop.log",
+    "ralph_loop.py",
+    "Skills/Financial_Management.md",
+    "Skills/Task_Processing.md",
+    "Skills/Email_Management.md",
+    "Skills",
+    "Briefings/2026-04-03_CEO_Briefing.md",
+    "Needs_Action/EMAIL_20260330_223234_Yango ride reports _ confirm your subscr.md",
+    "Needs_Action/EMAIL_20260330_223435_Test.md",
     "Approved/APPROVAL_make_payment_20260330_223854.md",
+    "Needs_Action/FILE_20260215_204212_test_task.md",
     "Pending_Approval/APPROVAL_make_payment_20260330_223916.md",
+    "Pending_Approval/APPROVAL_send_email_20260330_223854.md",
+    "Needs_Action/FILE_20260325_000204_test_task.md",
+    "Needs_Action/EMAIL_20260330_223233_Security alert.md",
+    "CLAUDE.md",
+    "Needs_Action/FILE_20260215_204212_test_task.txt",
+    "-Host",
     "Pending_Approval/APPROVAL_send_email_20260330_223916.md",
     "Pending_Approval/APPROVAL_make_payment_20260330_223854.md",
-    "Pending_Approval/APPROVAL_send_email_20260330_223854.md",
     "Needs_Action/EMAIL_20260330_223636_Test urgent.md",
-    "Needs_Action/EMAIL_20260330_223435_Test.md",
     "Needs_Action/EMAIL_20260330_223234_Login Authentication Code.md",
     "Needs_Action/EMAIL_20260330_223234_Monthly E-Statement.md",
-    "Needs_Action/EMAIL_20260330_223234_Yango ride reports _ confirm your subscr.md",
-    "Needs_Action/EMAIL_20260330_223233_Security alert.md",
     "Logs/gmail_watcher.log",
-    "Needs_Action/FILE_20260325_000204_test_task.md",
     "Needs_Action/FILE_20260325_000204_test_task.txt",
     "Logs/watcher.log",
     "Business_Goals.md",
-    "CLAUDE.md",
     "Company_Handbook.md",
     "Dashboard.md",
     "Untitled"

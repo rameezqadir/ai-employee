@@ -17,10 +17,10 @@ Yango Hello, To confirm your subscription for Yango ride reports, please click o
 
 ## Required Actions
 
-- [ ] Read and understand email
-- [ ] Draft professional reply
-- [ ] Create approval request in /Pending_Approval
-- [ ] Wait for approval before sending
+- [x] Read and understand email
+- [x] Draft professional reply
+- [x] Create approval request in /Pending_Approval
+- [x] Wait for approval before sending
 
 ## Notes
 
